@@ -3,6 +3,6 @@ layout: about
 title: About
 ---
 
-## About
+## Wlcome to my website
 
-Hi, nice to meet you.
+Here is a look at me. I work as a it supporter and trained in a company that provides information technology services
